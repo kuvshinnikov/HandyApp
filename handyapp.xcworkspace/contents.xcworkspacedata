@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:handyapp/handyapp.xcodeproj">
+      location = "group:/Users/kuvshinnikov/Documents/GitHub/HandyApp/Handyapp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Handyapp.xcodeproj">
    </FileRef>
 </Workspace>
